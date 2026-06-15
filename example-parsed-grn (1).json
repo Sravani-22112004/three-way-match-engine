@@ -1,0 +1,34 @@
+{
+  "_id": "664a1f2e9b4e3c001f8e4a02",
+  "documentType": "grn",
+  "originalFileName": "grn-march-2026.pdf",
+  "parsedData": {
+    "grnNumber": "GRN-2026-0198",
+    "poNumber": "PO-2026-0042",
+    "grnDate": "2026-03-20",
+    "items": [
+      {
+        "itemCode": "11423",
+        "description": "Industrial Bolt M8x50",
+        "receivedQuantity": 50
+      },
+      {
+        "itemCode": "11797",
+        "description": "Hex Nut M8",
+        "receivedQuantity": 75
+      },
+      {
+        "itemCode": "18003",
+        "description": "Steel Washer 8mm",
+        "receivedQuantity": 30
+      },
+      {
+        "itemCode": "18004",
+        "description": "Spring Lock Washer 8mm",
+        "receivedQuantity": 30
+      }
+    ]
+  },
+  "createdAt": "2026-03-20T14:05:11.000Z",
+  "updatedAt": "2026-03-20T14:05:11.000Z"
+}

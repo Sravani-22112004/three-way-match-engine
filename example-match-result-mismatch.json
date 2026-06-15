@@ -1,0 +1,67 @@
+{
+  "poNumber": "PO-2026-0042",
+  "matchStatus": "mismatch",
+  "reasons": [
+    "invoice_date_after_po_date"
+  ],
+  "itemLevelSummary": [
+    {
+      "itemCode": "11423",
+      "description": "Industrial Bolt M8x50",
+      "poQty": 50,
+      "totalGrnQty": 50,
+      "invoiceQty": 50,
+      "status": "matched",
+      "reasons": []
+    },
+    {
+      "itemCode": "11797",
+      "description": "Hex Nut M8",
+      "poQty": 75,
+      "totalGrnQty": 75,
+      "invoiceQty": 75,
+      "status": "matched",
+      "reasons": []
+    },
+    {
+      "itemCode": "18003",
+      "description": "Steel Washer 8mm",
+      "poQty": 120,
+      "totalGrnQty": 30,
+      "invoiceQty": 30,
+      "status": "partially_matched",
+      "reasons": []
+    },
+    {
+      "itemCode": "18004",
+      "description": "Spring Lock Washer 8mm",
+      "poQty": 540,
+      "totalGrnQty": 30,
+      "invoiceQty": 30,
+      "status": "partially_matched",
+      "reasons": []
+    }
+  ],
+  "documents": {
+    "po": {
+      "_id": "664a1f2e9b4e3c001f8e4a01",
+      "poNumber": "PO-2026-0042",
+      "poDate": "2026-03-17",
+      "vendorName": "Acme Supplies Pvt. Ltd."
+    },
+    "grns": [
+      {
+        "_id": "664a1f2e9b4e3c001f8e4a02",
+        "grnNumber": "GRN-2026-0198",
+        "grnDate": "2026-03-20"
+      }
+    ],
+    "invoices": [
+      {
+        "_id": "664a1f2e9b4e3c001f8e4a03",
+        "invoiceNumber": "INV-2026-00891",
+        "invoiceDate": "2026-03-24"
+      }
+    ]
+  }
+}

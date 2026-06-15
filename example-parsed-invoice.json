@@ -1,0 +1,34 @@
+{
+  "_id": "664a1f2e9b4e3c001f8e4a03",
+  "documentType": "invoice",
+  "originalFileName": "invoice-acme-mar26.pdf",
+  "parsedData": {
+    "invoiceNumber": "INV-2026-00891",
+    "poNumber": "PO-2026-0042",
+    "invoiceDate": "2026-03-24",
+    "items": [
+      {
+        "itemCode": "11423",
+        "description": "Industrial Bolt M8x50",
+        "quantity": 50
+      },
+      {
+        "itemCode": "11797",
+        "description": "Hex Nut M8",
+        "quantity": 75
+      },
+      {
+        "itemCode": "18003",
+        "description": "Steel Washer 8mm",
+        "quantity": 30
+      },
+      {
+        "itemCode": "18004",
+        "description": "Spring Lock Washer 8mm",
+        "quantity": 30
+      }
+    ]
+  },
+  "createdAt": "2026-03-24T10:33:22.000Z",
+  "updatedAt": "2026-03-24T10:33:22.000Z"
+}

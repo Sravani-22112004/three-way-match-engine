@@ -1,0 +1,16 @@
+{
+  "poNumber": "PO-2026-0099",
+  "matchStatus": "insufficient_documents",
+  "reasons": [],
+  "itemLevelSummary": [],
+  "documents": {
+    "po": {
+      "_id": "664a1f2e9b4e3c001f8e4b01",
+      "poNumber": "PO-2026-0099",
+      "poDate": "2026-04-01",
+      "vendorName": "Beta Components Ltd."
+    },
+    "grns": [],
+    "invoices": []
+  }
+}
